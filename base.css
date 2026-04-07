@@ -66,6 +66,8 @@ img.side-button {
 /* sidebar alignment*/
 td.sidebar_new, table.sidebar_new {
   vertical-align: text-top;
+  vertical-align:top;
+  padding-top: 10px;
   	}
   	
 	
