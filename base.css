@@ -64,9 +64,10 @@ img.side-button {
 	}
 	
 /* sidebar alignment*/
-td.sidebar_new {
+td.sidebar_new, table.sidebar_new {
   vertical-align: text-top;
   	}
+  	
 	
 /* background color*/
 td.sidebar_bg {
