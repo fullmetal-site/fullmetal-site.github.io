@@ -156,6 +156,7 @@ img.author_icon {
 	text-align: left;
 	border-style: double;
 	border-color:white;
+	margin-right: 10px;
 	}
 	
 /* background color*/
@@ -165,7 +166,7 @@ td.regularv2 {
 	}
 
 /* Regular text */
-p.date {
+p.publish_date {
 	text-align: left;
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 9px;
