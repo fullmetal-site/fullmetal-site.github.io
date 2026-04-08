@@ -126,13 +126,12 @@ h2.author_name {
 
 /* Regular text */
 p.regular_text {
-	border: none;
+	padding-left: 20px;
 	text-align: left;
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 13px;
 	color: #FFFFFF;
 	text-shadow: 2px 2px 2px black;
-	padding-left:10px;
 	}
 
 /* regular link */
@@ -150,6 +149,7 @@ td.article_box {
 	padding-top:10px;
 	padding-left:10px;
 	background: rgba(50,50,50,0.5);
+	padding-right: 100px;
 	}
 
 /* small thumbnails */
