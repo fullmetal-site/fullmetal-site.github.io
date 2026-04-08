@@ -146,6 +146,9 @@ a.regular_link, A:link.regular_link, A:visited.regular_link, A:active.regular_li
 /* Article box */
 td.article_box {
 	border-style: double;
+	border-color:white;
+	padding-top:10px;
+	padding-left:10px;
 	background: rgba(50,50,50,0.5);
 	}
 
@@ -155,3 +158,10 @@ img.author_icon {
 	border-style: double;
 	border-color:white;
 	}
+	
+/* background color*/
+td.regularv2 {
+	padding-top: 10px;
+	vertical-align: top;
+	}
+
