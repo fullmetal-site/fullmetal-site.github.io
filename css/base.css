@@ -148,7 +148,7 @@ td.article_box {
 	padding-top:10px;
 	padding-left:10px;
 	background: rgba(50,50,50,0.5);
-	padding-right: 100px;
+	padding-right: 10px;
 	}
 
 /* small thumbnails */
@@ -156,11 +156,22 @@ img.author_icon {
 	text-align: left;
 	border-style: double;
 	border-color:white;
+	padding-right:10px;
 	}
 	
 /* background color*/
 td.regularv2 {
 	padding-top: 10px;
 	vertical-align: top;
+	}
+
+/* Regular text */
+p.date {
+	text-align: left;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9px;
+	color: #808080;
+	text-shadow: 2px 2px 2px black;
+	text-align:right;
 	}
 
