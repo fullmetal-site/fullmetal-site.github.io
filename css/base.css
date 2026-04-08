@@ -114,7 +114,7 @@ h2.author_name {
 	border:none;
 	text-align: left;
 	font-family: Verdana, Arial, sans-serif;
-	font-size: 10px;
+	font-size: 15px;
 	font-weight: bold;
 	text-shadow: 2px 2px 2px black;
 	color: #FFFFFF;
@@ -128,7 +128,7 @@ p.regular_text {
 	border:none;
 	text-align: left;
 	font-family: Verdana, Arial, sans-serif;
-	font-size: 12px;
+	font-size: 13px;
 	color: ##FFFFFF;
 	text-decoration: none;
 	text-shadow: 2px 2px 2px black;
