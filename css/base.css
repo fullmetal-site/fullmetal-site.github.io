@@ -13,12 +13,14 @@ body.null {
 	background: black;
 	padding: 0;
  	margin: 0;
+ 	border: 
 	}
 
 
 /* spacing on text */
 img.top_buttons { 
 	margin: auto;
+	border:none;
 }
 
 /* buttons on top */
